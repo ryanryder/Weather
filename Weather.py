@@ -1,6 +1,3 @@
-# THIS IS A CHEAT I AM EDITING CODE I FOUND ONLINE TO GET USED TO API CALLS
-# NOT MY CODE!
-
 #Import modules
 import requests, json 
 
